@@ -43,6 +43,6 @@ This project involved significant "under-the-hood" engineering to ensure the rep
 
 *   **AdventureWorks Raw Data/:** Raw CSV data files used for the analysis.
 
-*   **Images/:** Screenshots of the dashboard views.
+*   **Images/:** Images and icons used in the dashboard.
 
 *   **Documentation/:** PDF export of the report and technical notes.
